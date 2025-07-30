@@ -18,7 +18,7 @@ Note que **múltiplas crianças** podem ter o maior número de doces.
 ### Executando o projeto
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone <https://github.com/SavioFagundes/candyWithKids.git>
 cd candyWithKids
 
 # Restaurar dependências
